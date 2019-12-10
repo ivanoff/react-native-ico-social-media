@@ -1,6 +1,6 @@
-# react-native-ico-social-media
+# Social Media Icons for React Native
 
-### Social Media Icons for React Native
+### react-native-ico-social-media
 
 49 Icons
 
@@ -13,15 +13,19 @@ import Icon from 'react-native-ico-social-media';
 // Inside some view component
 render() {
     return (
-        <Fragment>
+        <>
           <Icon name="amazon" />
           <Icon name="facebook" height="40" width="40" />
           <Icon name="youtube" color="red" />
-        </Fragment>
+        </>
     );
 }
 
 ```
+
+## List of icons
+
+- [List of Social Media Icons](static/social-media.md)
 
 ## Installation
 
@@ -69,7 +73,7 @@ height | yes | 20 | height of the icon | 40
 
 ## Icons Made by
 
-[Dave Gandy](https://www.flaticon.com/authors/dave-gandy)
+[Freepik](https://www.flaticon.com/authors/freepik)
 
 ## Created by
 
