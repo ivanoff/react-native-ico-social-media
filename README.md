@@ -14,9 +14,9 @@ import Icon from 'react-native-ico-social-media';
 render() {
     return (
         <Fragment>
-          <Icon name="home" />
-          <Icon name="file" height="40" width="40" />
-          <Icon name="smile" color="red" />
+          <Icon name="amazon" />
+          <Icon name="facebook" height="40" width="40" />
+          <Icon name="youtube" color="red" />
         </Fragment>
     );
 }
