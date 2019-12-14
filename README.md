@@ -25,7 +25,7 @@ render() {
 
 ## List of icons
 
-- [List of Social Media Icons](static/social-media.md)
+- [List of Social Media Icons](http://ico.simpleness.org/pack/social-media)
 
 ## Installation
 
@@ -66,10 +66,6 @@ color | yes | | line color, css style | "#00ff00", "#0f0", "green"
 width | yes | 20 | width of the icon | 40
 height | yes | 20 | height of the icon | 40
 ...rest | no | | other props | style={{backgroundColor: "#00f"}}
-
-## List of icons
-
-- [List of Social Media Icons](static/social-media.md)
 
 ## Icons Made by
 

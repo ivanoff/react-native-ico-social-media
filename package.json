@@ -1,6 +1,6 @@
 {
   "name": "react-native-ico-social-media",
-  "version": "1.5.2",
+  "version": "1.5.3",
   "description": "Social Media Icons for React Native",
   "main": "src/index.js",
   "module": "src/index.js",
