@@ -1,8 +1,8 @@
-# social media Icons for React Native
+# Social Media Icons for React Native
 
 ### react-native-ico-social-media
 
-369 Icons
+49 Icons
 
 ## Usage
 
@@ -25,7 +25,7 @@ render() {
 
 ## List of icons
 
-- [List of social media Icons](http://ico.simpleness.org/pack/social-media)
+- [List of Social Media Icons](http://ico.simpleness.org/pack/social-media)
 
 ## Installation
 
