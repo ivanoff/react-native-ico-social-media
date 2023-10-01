@@ -1,5 +1,6 @@
 declare module 'react-native-ico-social-media' {
     import { ReactNode } from 'react';
+    import { SvgProps, AdditionalProps } from 'react-native-svg';
 
     type iconNames = 'youtube' |
       'yelp' |
@@ -82,7 +83,7 @@ declare module 'react-native-ico-social-media' {
       badge?: number | string | badgeTypeObj;
     }
 
-    const Icon: (props: IconProps) => ReactNode;
+    const Icon: (props: IconProps & SvgProps & AdditionalProps) => ReactNode;
 
     export { iconNames };
     export default Icon;
